@@ -1,7 +1,7 @@
 # Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection (AAAI 2024)
 ## Official Implementation
 
-[`Paper`](https://arxiv.org/abs/2306.14291) [`Code`](https://github.com/boschresearch/Hyp-OW)`
+[`Paper`](https://arxiv.org/abs/2306.14291) [`Code`](https://github.com/boschresearch/Hyp-OW)
 #### [Thang Doan](https://tldoan.github.io/), Xin Li, Sima Behpour, [Wenbin He](https://hewenbin.github.io/), Liang Gou, [Liu Ren](https://sites.google.com/site/liurenshomepage/) ####
 
 
