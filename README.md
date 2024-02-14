@@ -1,6 +1,9 @@
 # Hyp-OW: Exploiting Hierarchical Structure Learning with Hyperbolic Distance Enhances Open World Object Detection (AAAI 2024)
 ## Official Implementation
-[![arXiv](https://img.shields.io/badge/📜arXiv-2306.14291-red)](https://arxiv.org/abs/2306.14291) [![Static Badge](https://img.shields.io/badge/🖼️pdf-Poster-blue)](https://github.com/boschresearch/Hyp-OW/blob/main/img/Poster_Hyp_AAAI.pdf)  [![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-Green)](https://huggingface.co/tldoan/Hyp-OW/tree/main) [![Static Badge](https://img.shields.io/badge/🎥Youtube-Video-orange)](https://youtu.be/dXaF0WpNFlA)
+[![arXiv](https://img.shields.io/badge/📜arXiv-2306.14291-red)](https://arxiv.org/abs/2306.14291) [![Static Badge](https://img.shields.io/badge/🖼️pdf-Poster-blue)](https://github.com/boschresearch/Hyp-OW/blob/main/img/Poster_Hyp_AAAI.pdf)  [![Static Badge](https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Model-Green)](https://huggingface.co/tldoan/Hyp-OW/tree/main) [![Static Badge](https://img.shields.io/badge/🎥Youtube-Video-orange)](https://youtu.be/dXaF0WpNFlA) [![Static Badge](https://img.shields.io/badge/👨‍💻Python-code-cyan)](https://github.com/boschresearch/Hyp-OW/tree/main)
+
+
+
 
 #### [Thang Doan](https://tldoan.github.io/), Xin Li, Sima Behpour, [Wenbin He](https://hewenbin.github.io/), Liang Gou, [Liu Ren](https://sites.google.com/site/liurenshomepage/) ####
 
